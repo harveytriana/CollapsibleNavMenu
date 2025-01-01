@@ -31,5 +31,7 @@ To integrate the collapsible icon menu into your project, follow these steps:
     ```
 3. Adjust the sizing and behavior in `App.razor` if needed.
 
+4. Add <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css"> to project.
+
 ### Acknowledgments
 - Gavin Williams ([GitHub Profile](https://github.com/DrGav)) | ([MSFT Tech Community Profile](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1750639))
